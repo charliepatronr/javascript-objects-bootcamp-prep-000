@@ -1,3 +1,3 @@
 
 
-var playlist = { TheKillers : };
+var playlist = { TheKillers: "Shadowplay" };
