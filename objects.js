@@ -1,6 +1,6 @@
 
 
-var playlist = { artistName: "The Killers", songTitle : "Shadowplay" };
+var playlist = { name: "The Killers", songTitle : "Shadowplay" };
 
 
 function updatePlaylist(playlist, artistName, songTitle){
