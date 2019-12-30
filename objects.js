@@ -3,4 +3,6 @@
 var playlist = { TheKillers: "Shadowplay" };
 
 
-function 
+function updatePlaylist(playlist, artistName, songTitle){
+  
+}
