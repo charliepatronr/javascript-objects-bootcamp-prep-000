@@ -1,9 +1,10 @@
 
 
-var playlist = { name: "The Killers", songTitle : "Shadowplay" };
+var playlist = { name: "The Killers", song : "Shadowplay" };
 
 
 function updatePlaylist(playlist, artistName, songTitle){
-  return  playlist[artistName]
-  
+  playlist.name[artistName];
+  playlist.song[songTitle];
+  return playlist;
 }
